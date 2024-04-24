@@ -1,21 +1,21 @@
 const sectors = [
-        {color:"#f82", label:"Namık Kemal"},
-        {color:"#0bf", label:"Cenap Şahabettin"},
-        {color:"#fb1", label:"Mehmet Akıf Ersoy"},
-        {color:"#0fb", label:"Ahmet Kutsi Tecer"},
-        {color:"#b0f", label:"Bahtiyar Vapsade"},
-        {color:"#f0b", label:"Hüseyin Şehriyar"},
-        {color:"#bf1", label:"Arıf Niyat Asya"},
-        {color:"#f1b", label:"Yahya Kemal      "},
+      {"color":"#f82", "label":"Namık Kemal"},
+      {"color":"#0bf", "label":"Cenap Şahabettin"},
+      {"color":"#fb1", "label":"Mehmet Akif Ersoy"},
+      {"color":"#0fb", "label":"Ahmet Kutsi Tecer"},
+      {"color":"#b0f", "label":"Bahtiyar Vahapşanalı"},
+      {"color":"#f0b", "label":"Hüseyin Suat Yalçın"},
+      {"color":"#bf1", "label":"Arif Nihat Asya"},
+      {"color":"#f1b", "label":"Yahya Kemal"},
 
-        {color:"#f82", label:"Mehmet E. Yurdakul"},
-        {color:"#0bf", label:"Ahmet Haşım    "},
-        {color:"#fb1", label:"Tevfik Fıkret"},
-        {color:"#0fb", label:"Abdülhak Hamid"},
-        {color:"#b0f", label:"Tarık Buğra"},
-        {color:"#f0b", label:"Orhan Kemal"},
-        {color:"#bf1", label:"Memduh Şevket"},
-        {color:"#f1b", label:"Refik Halit"},
+      {"color":"#f82", "label":"Mehmet Emin Yurdakul"},
+      {"color":"#0bf", "label":"Ahmet Haşim"},
+      {"color":"#fb1", "label":"Tevfik Fikret"},
+      {"color":"#0fb", "label":"Abdülhak Hamid Tarhan"},
+      {"color":"#b0f", "label":"Tarık Buğra"},
+      {"color":"#f0b", "label":"Orhan Kemal"},
+      {"color":"#bf1", "label":"Memduh Şevket Esendal"},
+      {"color":"#f1b", "label":"Refik Halit Karay"}
       ];
       
       // Generate random float in range min-max:
